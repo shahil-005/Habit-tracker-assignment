@@ -1,5 +1,4 @@
 # Habit Tracker
-A full stack, app used for reviewing employee.
 Hoisted Link : https://habit-tracker-shahil005-sy39.onrender.com/
 
 # Getting Started with Create React App
